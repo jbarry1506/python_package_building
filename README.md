@@ -2,22 +2,21 @@
 Notes and examples for building Python packages and modules
 
   # Python Package File Structure
-helloworld/
--│
--├── helloworld/
--│   ├── __init__.py
--│   ├── helloworld.py
--│   └── helpers.py
--│
--├── tests/
--│   ├── helloworld_tests.py
--│   └── helpers_tests.py
--│
--├── .gitignore
--├── LICENSE
--├── README.md
--├── requirements.txt
--└── setup.py
+  helloworld/
+  ── helloworld/
+     ── __init__.py
+     ── helloworld.py
+     ── helpers.py
+
+  ── tests/
+     ── helloworld_tests.py
+     ── helpers_tests.py
+
+  ── .gitignore
+  ── LICENSE
+  ── README.md
+  ── requirements.txt
+  ── setup.py
 
   # Reference Materials
     https://realpython.com/python-application-layouts/
