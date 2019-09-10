@@ -2,13 +2,13 @@
 Notes and examples for building Python packages and modules
 
   # Python Package File Structure
-  helloworld/
-  ── helloworld/
+  helloworld
+  ── helloworld
      ── __init__.py
      ── helloworld.py
      ── helpers.py
 
-  ── tests/
+  ── tests
      ── helloworld_tests.py
      ── helpers_tests.py
 
