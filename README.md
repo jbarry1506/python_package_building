@@ -3,8 +3,8 @@ Notes and examples for building Python packages and modules
 
 # running setup and installing
   * from the directory containing setup.py
-  python setup.py sdist
-  python setup.py install
+   * python setup.py sdist
+   * python setup.py install
 
   # Python Package File Structure
     https://realpython.com/python-application-layouts/
